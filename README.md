@@ -1,4 +1,4 @@
-# practiceCreatingForms
+# Figma
 
 https://www.figma.com/design/bfXl7Tu4DiJfE4lk9QwrWT/Untitled?node-id=0-1&t=0YCoYz32QBSMbzE0-1
 
